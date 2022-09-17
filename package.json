@@ -2,6 +2,7 @@
   "name": "hbdjiba",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ghifar1.github.io/hbdjiba",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@mantine/core": "^5.2.5",
