@@ -18,7 +18,7 @@ const GreetingCard = () => {
                         Jangan insecure lagi yaahhh, tetap percaya diri karena setiap manusia mempunyai kelebihan masing-masing🙆.
                     </Text>
                     <Text mt={10}>
-                        Oh iya, di bawah ada video ucapan selamat dari teman-teman jiba jugaa, monggo diliat yaaa.
+                        Oh iya, di bawah ada video ucapan selamat dari teman-teman jiba jugaa, monggo diliat yaaa. 
                     </Text>
                 </Paper>
             </Stack>
