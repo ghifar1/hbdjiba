@@ -11,6 +11,7 @@ import fotohias2 from "../images/fotohias2.jpg"
 import bgvideo from "../videos/bgvideofix.mp4"
 import ReactPlayer from "react-player"
 import GreetingCard from "../components/GreetingCard"
+import GreetingFriends from "../components/GreetingFriends"
 
 const CoverDepan = () => {
     return (
@@ -140,7 +141,7 @@ const Surprise = () => {
     const [music] = useState(new Audio(song))
     const { start, clear } = useTimeout(() => music.play(), 200)
     useEffect(() => {
-        start()
+        // start()
     }, [])
     return (
         <div style={{ position: 'relative' }}>

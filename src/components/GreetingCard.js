@@ -1,4 +1,5 @@
 import { Box, Group, Paper, Stack, Text, Title } from "@mantine/core"
+import GreetingFriends from "./GreetingFriends"
 
 const GreetingCard = () => {
     return (
@@ -22,6 +23,7 @@ const GreetingCard = () => {
                     </Text>
                 </Paper>
             </Stack>
+            <GreetingFriends />
         </Box>
     )
 }

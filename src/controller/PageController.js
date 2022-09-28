@@ -3,7 +3,7 @@ import Surprise from "../pages/Surprise";
 import WelcomePin from "../pages/WelcomePin";
 
 const PageController = () => {
-    const [pageState, setPageState] = useState(0)
+    const [pageState, setPageState] = useState(1)
 
     switch (pageState) {
         case 0:
