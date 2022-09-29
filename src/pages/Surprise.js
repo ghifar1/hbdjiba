@@ -8,6 +8,8 @@ import jiba from "../images/jibakotak.jpg"
 import unicorn from "../images/unicorn.png"
 import fotohias1 from "../images/fotohias1.jpg"
 import fotohias2 from "../images/fotohias2.jpg"
+import fotohias3 from "../images/jibasempro.jpeg"
+import fotohias4 from "../images/jibaultah.jpeg"
 import bgvideo from "../videos/bgvideofix.mp4"
 import ReactPlayer from "react-player"
 import GreetingCard from "../components/GreetingCard"
@@ -52,7 +54,7 @@ const CoverDepan = () => {
                         ease: [0, 0.71, 0.2, 1.01]
                     }}
                 >
-                    <img src={fotohias2} style={{ width: '130px', borderRadius: '10%' }} />
+                    <img src={fotohias3} style={{ width: '130px', borderRadius: '10%' }} />
                 </motion.div>
             </Box>
             <Box style={{ position: 'absolute', right: '5%', top: '12%' }}>
@@ -65,7 +67,7 @@ const CoverDepan = () => {
                         ease: [0, 0.71, 0.2, 1.01]
                     }}
                 >
-                    <img src={fotohias2} style={{ width: '100px', borderRadius: '10%' }} />
+                    <img src={fotohias4} style={{ width: '100px', borderRadius: '10%' }} />
                 </motion.div>
             </Box>
             <Center style={{ height: '100%' }}>
