@@ -1,22 +1,29 @@
 {
   "files": {
     "main.css": "/hbdjiba/static/css/main.e6c13ad2.css",
-    "main.js": "/hbdjiba/static/js/main.cebc4501.js",
+    "main.js": "/hbdjiba/static/js/main.fad2f712.js",
     "static/js/787.f9829b90.chunk.js": "/hbdjiba/static/js/787.f9829b90.chunk.js",
     "static/media/bgvideofix.mp4": "/hbdjiba/static/media/bgvideofix.0c10fe492f999dc2de08.mp4",
+    "static/media/syahra.mp4": "/hbdjiba/static/media/syahra.236296ec5c72f01608c4.mp4",
     "static/media/backsound.mp3": "/hbdjiba/static/media/backsound.e379d42681798a53ed40.mp3",
+    "static/media/lenii.mp4": "/hbdjiba/static/media/lenii.8ef12fe59fb873b54264.mp4",
     "static/media/fotohias2.jpg": "/hbdjiba/static/media/fotohias2.b135deceb5b9d52c2ad0.jpg",
+    "static/media/jamile.mp4": "/hbdjiba/static/media/jamile.141c0886896ed159e35f.mp4",
+    "static/media/jara.mp4": "/hbdjiba/static/media/jara.2ad275410fe643023cd5.mp4",
     "static/media/fotohias1.jpg": "/hbdjiba/static/media/fotohias1.914f1fd80c3d03d94282.jpg",
+    "static/media/cica.mp4": "/hbdjiba/static/media/cica.10dbd5d89fbbf0ba98d5.mp4",
     "static/media/unicorn.png": "/hbdjiba/static/media/unicorn.f2733ea2fd7b5ced62ea.png",
     "static/media/panda.png": "/hbdjiba/static/media/panda.b88e574a105fdcb4fecc.png",
     "static/media/jibakotak.jpg": "/hbdjiba/static/media/jibakotak.66f7ab6cb57fbca9e6b9.jpg",
+    "static/media/jibasempro.jpeg": "/hbdjiba/static/media/jibasempro.f1b77abef5f8a5d3c683.jpeg",
+    "static/media/jibaultah.jpeg": "/hbdjiba/static/media/jibaultah.29483401d98cd419b8c7.jpeg",
     "index.html": "/hbdjiba/index.html",
     "main.e6c13ad2.css.map": "/hbdjiba/static/css/main.e6c13ad2.css.map",
-    "main.cebc4501.js.map": "/hbdjiba/static/js/main.cebc4501.js.map",
+    "main.fad2f712.js.map": "/hbdjiba/static/js/main.fad2f712.js.map",
     "787.f9829b90.chunk.js.map": "/hbdjiba/static/js/787.f9829b90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cebc4501.js"
+    "static/js/main.fad2f712.js"
   ]
 }
