@@ -143,7 +143,7 @@ const Surprise = () => {
     const [music] = useState(new Audio(song))
     const { start, clear } = useTimeout(() => music.play(), 200)
     useEffect(() => {
-        // start()
+        start()
     }, [])
     return (
         <div style={{ position: 'relative' }}>
